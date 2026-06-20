@@ -3,7 +3,7 @@ title: "VCCが起動直後にクラッシュする原因と直し方｜重複パ
 emoji: "🩺"
 type: "tech"
 topics: ["vrchat", "unity", "vcc", "vrcfury", "powershell"]
-published: false
+published: true
 ---
 
 ALCOM では普通に開けるのに、VCC（VRChat Creator Companion）を起動すると一瞬で落ちる——そんな状態にハマったときの、原因の切り分けと直し方のメモです。最後に、複数プロジェクトを横断して自動検出・修復する PowerShell スクリプトも置いておきます。
